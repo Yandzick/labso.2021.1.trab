@@ -1,0 +1,15 @@
+backup-natan
+final.txt
+instrucoes.txt
+log
+natan08071997
+natan1.txt
+natan2.txt
+natan3.txt
+pasta1
+pasta2
+pasta3
+README.md
+trab1-2021.txt
+trab1-Natan.txt
+ultimocomando.txt
