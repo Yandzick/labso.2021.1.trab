@@ -20,7 +20,7 @@ cat access.log | head -100 | tail -110
 Ex.: trab1-alex.txt
 Resposta (Cole aqui o(s) comandos utilizados): 
 
-cp trab1-2021 trab1-Natan
+cp trab1-2021.txt trab1-Natan.txt
 
 
 
